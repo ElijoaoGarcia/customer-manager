@@ -1,0 +1,22 @@
+#AddCustomer{
+    position: absolute;
+    left:0;
+    top:0;
+    background: #fff;
+    width: 100%;
+    display: flex;
+    flex:1;
+    flex-direction:column;
+    height: 100%;
+}
+
+.addContent{
+    display: flex;
+    flex: 1;
+    /* background: yellow; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
